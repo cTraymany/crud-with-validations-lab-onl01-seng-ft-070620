@@ -1,0 +1,3 @@
+Song.create(title: 'Rhythms Which I Played', released: true, release_year: 2000, artist_name: 'Man With Instruments', genre: 'Normcore')
+Song.create(title: 'Rhythms Which I Played Again at a Later Time', released: true, release_year: 2004, artist_name: 'Man With Instruments', genre: 'Sci-Crust Fizz-Punk')
+Song.create(title: 'Talisman', released: true, release_year: 2007, artist_name: 'Air', genre: 'Post-Rock')
